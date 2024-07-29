@@ -12657,6 +12657,14 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -6963420133143263197, guid: 8130cb8d93b6cc94b839b59f101b8dab, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -4.036
+      objectReference: {fileID: 0}
+    - target: {fileID: -6963420133143263197, guid: 8130cb8d93b6cc94b839b59f101b8dab, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -4.988
+      objectReference: {fileID: 0}
     - target: {fileID: -6093592463355912122, guid: 8130cb8d93b6cc94b839b59f101b8dab, type: 3}
       propertyPath: m_CastShadows
       value: 1
