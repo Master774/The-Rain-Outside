@@ -1,8 +1,13 @@
+using Unity.Burst.CompilerServices;
 using UnityEngine;
 
 public class Jugador_Vision : MonoBehaviour {
     public float distanciaRayCast = 3.5f;
     public Camera camara;
+
+    [Header("Interfaz")]
+    public GameObject icono_Puerta;
+    public GameObject icono_TomarObjeto;
 
     private RaycastHit hit;
 
@@ -23,19 +28,35 @@ public class Jugador_Vision : MonoBehaviour {
         if(Physics.Raycast(rayo, out hit, distanciaRayCast)) {
             switch(hit.collider.tag) {
                 case "Interruptor":
-                // Acción para objetos con la etiqueta "Enemigo"
-                Debug.Log("Interruptor");
-                // Aquí puedes agregar más lógica para interactuar con el enemigo
+                    // Acción para objetos con la etiqueta "Enemigo"
+                    Debug.Log("Interruptor");
+                    // Aquí puedes agregar más lógica para interactuar con el enemigo
+                break;
+                case "Puerta":
+                    icono_Puerta.SetActive(true);
+                    var puertaScript = hit.collider.gameObject.GetComponent<Casa_Puerta_AbrirYCerrar>();
+                    if(puertaScript != null && Input.GetKeyDown(KeyCode.E)) {
+                        puertaScript.CambiarEstadoDePuerta();
+                    }
+                    else if(puertaScript == null) {
+                        Debug.LogWarning("El objeto con la etiqueta 'Puerta' no tiene el componente Casa_Puerta_AbrirYCerrar.");
+                    }
                 break;
                 case "Item":
-                // Acción para objetos con la etiqueta "Item"
-                Debug.Log("Chocó con un Item");
-                // Aquí puedes agregar más lógica para recoger el ítem
+                    // Acción para objetos con la etiqueta "Item"
+                    Debug.Log("Chocó con un Item");
+                    // Aquí puedes agregar más lógica para recoger el ítem
                 break;
                 default:
-                
+                    Debug.Log("Choco con: " + hit.collider.name);
+                    icono_Puerta.SetActive(false);
+                    icono_TomarObjeto.SetActive(false);
                 break;
             }
+        }
+        else {
+            icono_Puerta.SetActive(false);
+            icono_TomarObjeto.SetActive(false);
         }
 
         // Dibujar la línea del rayo en el Editor

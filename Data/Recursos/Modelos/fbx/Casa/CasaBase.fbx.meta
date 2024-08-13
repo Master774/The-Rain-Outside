@@ -1,0 +1,342 @@
+fileFormatVersion: 2
+guid: 39d6e4d22564358448ae72ad3711e5c0
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Color_Ba\xF1o"
+    second: {fileID: 2100000, guid: 90562359cb5ba8340a6658e26742f574, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_Cuarto1
+    second: {fileID: 2100000, guid: dabbf339f97543d439dbc6d3e0f12100, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_DeParedCocina
+    second: {fileID: 2100000, guid: 12474a3b90854764ab6c73a6c04a6913, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_Escaleras
+    second: {fileID: 2100000, guid: e7be6ea2b794b8c43abfbac930b7a0d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_Escaleras1
+    second: {fileID: 2100000, guid: 1638460f5a9b94f4291d3cd8e07d2f11, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_Escaleras2
+    second: {fileID: 2100000, guid: 96a9bac827b269c43af3bd1a7477a177, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_EscalerasSotano
+    second: {fileID: 2100000, guid: dac378c0014f7cf40b2d3d4166277092, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_Exteriores
+    second: {fileID: 2100000, guid: 486d4dcdc8ea011428a69ce1a620fc8b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_Habitacion
+    second: {fileID: 2100000, guid: 8e2fdc18a5f99db4da3c31474419f91a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_Ladrillo
+    second: {fileID: 2100000, guid: a965d01adc772fb41acf118513ab9940, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_Madera2
+    second: {fileID: 2100000, guid: 76645c73927ff274f8d366c50d04cf89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_MarcoHabitacion
+    second: {fileID: 2100000, guid: 25de22ac5e138bf4eaa61b1883a19806, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_MarcoPuerta
+    second: {fileID: 2100000, guid: 44d43ab61ec2d7c4b8a497eaa1809a0b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_MarcoPuerta.001
+    second: {fileID: 2100000, guid: 49fa3316bffcb9448a4237d38193c492, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_ParedSala
+    second: {fileID: 2100000, guid: 3d273539118e5cd4a90c1983bf086903, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_ParedesPasillo
+    second: {fileID: 2100000, guid: 348e42a0e8b4ae54b9f24e7a7ab11745, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_ParedesPasillo1
+    second: {fileID: 2100000, guid: 69d5244ec6a94724192a547a79b6a3a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_Perilla.001
+    second: {fileID: 2100000, guid: 6ab0b9e264d8cc24285b0831a94a9782, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_Perilla1
+    second: {fileID: 2100000, guid: 58d22c1977edeb74488611e1e0be7c32, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_PerillaFondo.001
+    second: {fileID: 2100000, guid: 5cd474e951cf1fb43b6b503018e9df2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_Pilares
+    second: {fileID: 2100000, guid: a563cb295cdaed8478ec8125146f1c88, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_PuertaIVidrio
+    second: {fileID: 2100000, guid: 680b412e975046d4eb2969848218aed9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_PuertaIVidrio.001
+    second: {fileID: 2100000, guid: a46d4588d640d5c43a49b0e711dcdb4e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_Rejas
+    second: {fileID: 2100000, guid: 783011c839d69d44d8d3435a501084f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_Suelo
+    second: {fileID: 2100000, guid: cb2103a6fd686a54597393716fee6780, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_Techo
+    second: {fileID: 2100000, guid: 884ad7a573c037742a7047945b7f731f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_Teja
+    second: {fileID: 2100000, guid: 8bcbe0032a10c584c8ead7336a1ef6e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_Teja1
+    second: {fileID: 2100000, guid: 5dbded9b493128d4eb619a5dfcb536ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_Tejado
+    second: {fileID: 2100000, guid: 57b8297b259feea4aa091f9c35e0449a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_Ventana1
+    second: {fileID: 2100000, guid: c43c438fb06e3154a8b8392a9f864709, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_Ventana1.001
+    second: {fileID: 2100000, guid: 47af4f978861981478c93cea23a5f85d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_VentanaMetal
+    second: {fileID: 2100000, guid: f495ef14f932e744ca474e8fda41ca93, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_VentanaVidrio
+    second: {fileID: 2100000, guid: 3d69086a31708a04689d598cafd8a04d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_VentanaVidrio.001
+    second: {fileID: 2100000, guid: 8a508d8a6d0f48f428502a51091a3ef0, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Baldosas
+    second: {fileID: 2800000, guid: b38d7fc98a60f1547b5d093e9aaf512d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BaldosasMap
+    second: {fileID: 2800000, guid: 0774d5312d912a046ae676a543266e4d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tejado Map
+    second: {fileID: 2800000, guid: 66bdfce036846bb488f93405f4c8f64f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: laminate_floor_02_diff_4k
+    second: {fileID: 2800000, guid: 5ddd0cd902255d44fa40de3300f1438e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: laminate_floor_02_nor_gl_4k
+    second: {fileID: 2800000, guid: 6e8fa84eaccf5944f807735b9c023a38, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: red_brick_plaster_patch_02_diff_4k
+    second: {fileID: 2800000, guid: aada9a3b2699c9d4c8be5591a6986a4d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rosewood_veneer1_nor_gl_4k
+    second: {fileID: 2800000, guid: 79758ad66c3883e4690f1a2957ee27ef, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rustic_stone_wall_02_diff_4k
+    second: {fileID: 2800000, guid: 906378db26d56774f8bf316290127ab4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rustic_stone_wall_02_nor_gl_4k
+    second: {fileID: 2800000, guid: 3d052a8e31e579349a6b5b4ee3ef82f6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tejado
+    second: {fileID: 2800000, guid: 562531aac36d8794e825034c065024dc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wood_cabinet_worn_long_diff_4k
+    second: {fileID: 2800000, guid: f8a576f2817aa2444a42230b15014e6a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: yellow_stone_wall_diff_4k
+    second: {fileID: 2800000, guid: 7bada1f6703bdf948abf0464f08c7e62, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: yellow_stone_wall_nor_gl_4k
+    second: {fileID: 2800000, guid: b65e9a618a7e40941b7237bd3cac1ece, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
